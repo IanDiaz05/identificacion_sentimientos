@@ -1,0 +1,10 @@
+pandas
+numpy
+kagglehub
+nltk
+spacy
+matplotlib
+seaborn
+afinn
+langdetect
+scikit-learn
