@@ -3,7 +3,6 @@ numpy
 kagglehub
 nltk
 spacy
-nltk
-spacy
 matplotlib
 seaborn
+afinn
